@@ -9,7 +9,6 @@ const {writeFile, lstat} = require('fs').promises;
 const LOG = {default: false, custom: true};
 const utils = require('./utils');
 
-
 // actual logic
 (async() =>  {
 
@@ -17,7 +16,6 @@ const utils = require('./utils');
 
     // path for json file containing all default icons
     const input_json = require("./UI_DT_Icons.json")[0];
-    
     const output_file = join(__dirname, '../output/UI_DT_Icons.json');
     const file_dir = join(__dirname, '../customicons/json'); 
     const output = []; // output array saved as json
@@ -30,7 +28,6 @@ const utils = require('./utils');
                 objekt[key] = objekt[key].AssetPathName;
             }
         }
-
         output.push({Name: key, ...objekt});
         if (LOG.default) console.log(`Added Default Icon: ${key}`);
     }
