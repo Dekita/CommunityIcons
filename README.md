@@ -22,3 +22,5 @@ Use as short a name as possible (to avoid long name errors)
 No. As mentioned, only one single mod can alter this resource, so only one mod should be trying to. If needed, I can grant you access on nexus mod to upload a new version, just reach out: dekitrpg@gmail.com 
 
 While still modding this game I'm happy to keep this mod up-to-date :)
+
+See also: See also: https://github.com/Dekita/CommunityLocalization
