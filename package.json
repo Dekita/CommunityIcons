@@ -1,16 +1,15 @@
 {
-    "name": "hogwarts-legacy-community-icon-data-table",
-    "version": "1.0.0",
-    "description": "A simple script to create a custom icon data table containing all icon assets used by various mods in the community",
-    "main": "src/index.js",
-    "scripts": {
-      "start": "node src/index.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "DekitaRPG@gmail.com",
-    "license": "ISC",
-    "dependencies": {
-      "json-stringify-pretty-compact": "^3.0.0"
-    }
+  "name": "hogwarts-legacy-community-icon-data-table",
+  "version": "1.0.0",
+  "description": "A simple script to create a custom icon data table containing all icon assets used by various mods in the community",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DekitaRPG@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "json-stringify-pretty-compact": "^3.0.0"
   }
-  
+}

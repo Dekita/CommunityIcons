@@ -1,0 +1,15 @@
+{
+    "Name": "REPLACED BY FILENAME",
+    "Icon": "/Game/UI/CustomIcons/UI_T_SpellIcon_Obliviate.UI_T_SpellIcon_Obliviate",
+    "Locked": false,
+    "HAngle": 157.5,
+    "VAngle": -11.25,
+    "FieldOfView": 20.0,
+    "Padding": 1.1,
+    "LightHAngle": 0,
+    "LightVAngle": 0,
+    "CameraOffset": {"X": 0, "Y": 0, "Z": 0},
+    "AnimSequence": "None",
+    "AnimPercent": 0,
+    "CopyIconInfoRowName": "None"
+}
