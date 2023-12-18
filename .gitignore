@@ -125,3 +125,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# ignore auto generated icon files:
+converter/icons/
+customicons/icon/AutoIcon/
+customicons/json/AutoIcon/

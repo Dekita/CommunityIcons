@@ -1,6 +1,6 @@
 {
     "Name": "REPLACED BY FILENAME",
-    "Icon": "/Game/UI/CustomIcons/UI_T_PoacherBag.UI_T_PoacherBag",
+    "Icon": "/Game/UI/CustomIcons/Creatures/UI_T_Fish.UI_T_Fish",
     "Locked": false,
     "HAngle": 157.5,
     "VAngle": -11.25,
@@ -13,3 +13,4 @@
     "AnimPercent": 0,
     "CopyIconInfoRowName": "None"
 }
+
